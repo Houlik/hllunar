@@ -14,3 +14,4 @@
         strings[0]年 strings[1]月 strings[2]日
     7. 最后setOnLunarCalendarListener的第二个参数需求就是要查询的公历  
         输入方式 19781203 年月日
+    8. 输入格式不正确将抛出相关异常      
