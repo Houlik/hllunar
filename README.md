@@ -8,7 +8,7 @@
     2. setContext(当前Activity)    
     3. 通过process() 获取LunarCalendar对象    
     4. 使用LunarCalendar对象调用setOnLunarCalendarListener    
-    5. 通过setOnLunarCalendarListener中两个方法分别获取getNumberic数字以及getMandarin中文的公历  
+    5. 通过setOnLunarCalendarListener中两个方法分别获取getNumberic数字以及getMandarin中文转换后的农历 
     6. getNumberic 和 getMandarin 当中数组参数的年月日是按照数组下标来获取  
         ints[0]年 ints[1]月 ints[2]日  
         strings[0]年 strings[1]月 strings[2]日
